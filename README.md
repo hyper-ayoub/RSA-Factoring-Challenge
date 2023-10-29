@@ -1,1 +1,1 @@
-This is a RSA factoring challenge
+RSA Factoring Challenge
